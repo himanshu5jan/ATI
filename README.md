@@ -7,4 +7,5 @@ Automation Testing Intensive - This contains sample programs which explains diff
 4. AllLinksPOWThrowable.java: This explains how to capture error / exception trace in ITestResult
 5. AllLoginPOWDataProviderInArr.java: This explains use of DataProvider to login as different users
 6. LinkCheckDataProviderInArr.java: This explains how to verify all links for all four users using DataProvider
+7. ButtonControlsTest.java: This explains use of Select class to work with dropdown and How to work with radio buttons
 
