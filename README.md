@@ -8,4 +8,5 @@ Automation Testing Intensive - This contains sample programs which explains diff
 5. AllLoginPOWDataProviderInArr.java: This explains use of DataProvider to login as different users
 6. LinkCheckDataProviderInArr.java: This explains how to verify all links for all four users using DataProvider
 7. ButtonControlsTest.java: This explains use of Select class to work with dropdown and How to work with radio buttons
+8. AjaxCallTest.java: This explains how to work with Ajax calls using wait
 
